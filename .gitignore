@@ -1,0 +1,4 @@
+*.classpath
+mongodb-demo-yuan/.project
+mongodb-demo-yuan/.springBeans
+*.prefs
